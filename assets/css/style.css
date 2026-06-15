@@ -155,6 +155,7 @@ body {
     color: var(--color-white);
     box-sizing: border-box;
     min-height: 100vh;
+     font-family: var(--font-secondary-font-family);
 }
 
 
@@ -525,9 +526,6 @@ text-decoration: none;
     color: var(--color-white);
 }
 
-span {
-    border: none;
-}
 
 .carrossel {
     display: flex;
@@ -859,7 +857,7 @@ span {
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 640px) {
 
     .conteiner-destaque{
         margin: 7.5rem 1.25rem 1.875rem 1.25rem;
@@ -893,7 +891,7 @@ span {
    
     .item{
         width: 100%;
-        max-width: 140px;
+        max-width: 180px;
     }
 
      .item.active{
