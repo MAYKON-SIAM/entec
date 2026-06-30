@@ -7,6 +7,8 @@ Este projeto foi desenvolvido como prática de front-end, aplicando HTML, CSS e 
 ---
 
  🚀 Demonstração
+ 
+Acesse o site em produção: www.entecinfo.com
 
 🔗 Acesse o site online:
 https://MAYKON-SIAM.github.io/entec/
